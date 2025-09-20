@@ -1,5 +1,9 @@
 {
     "python.analysis.extraPaths": [
-        "./04_indexing_and_slicing_in_"
+        "./04_indexing_and_slicing_in_",
+        "./04_indexing_and_slicing_in_",
+        "./04_indexing_and_slicing_in_",
+        "./04_indexing_and_slicing_in_",
+        "./broadcsting_and_vectorization_in_"
     ]
 }
