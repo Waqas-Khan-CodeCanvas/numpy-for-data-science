@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./04_indexing_and_slicing_in_"
+    ]
+}
